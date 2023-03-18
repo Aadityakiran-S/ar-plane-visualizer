@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &320963409518599840
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 320963409518599839}
+  - component: {fileID: 320963409518599838}
+  m_Layer: 0
+  m_Name: GalleryDataManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &320963409518599839
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 320963409518599840}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &320963409518599838
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 320963409518599840}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b33b5ce5158e374f9820880c3526625, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  galleryData:
+  - index: 0
+    thumbnailSprite: {fileID: 21300000, guid: e5516fc8a5d76c64b92d5f23d0951c3d, type: 3}
+    fullscreenSprite: {fileID: 21300000, guid: e5516fc8a5d76c64b92d5f23d0951c3d, type: 3}
+  - index: 1
+    thumbnailSprite: {fileID: 21300000, guid: a1fb775278aed274e991bebad7c9b207, type: 3}
+    fullscreenSprite: {fileID: 21300000, guid: a1fb775278aed274e991bebad7c9b207, type: 3}
+  - index: 2
+    thumbnailSprite: {fileID: 21300000, guid: 342893a86e5b703438403ef77cf9b963, type: 3}
+    fullscreenSprite: {fileID: 21300000, guid: 342893a86e5b703438403ef77cf9b963, type: 3}
+  - index: 3
+    thumbnailSprite: {fileID: 21300000, guid: 66bcf12c553dff14b88f77a99ac6d3ba, type: 3}
+    fullscreenSprite: {fileID: 21300000, guid: 66bcf12c553dff14b88f77a99ac6d3ba, type: 3}
+  - index: 4
+    thumbnailSprite: {fileID: 21300000, guid: abfca5a86a86ec840b2dca1467f1647b, type: 3}
+    fullscreenSprite: {fileID: 21300000, guid: abfca5a86a86ec840b2dca1467f1647b, type: 3}
+  - index: 5
+    thumbnailSprite: {fileID: 21300000, guid: ad207bb7c29e1714e90e94b9f033c587, type: 3}
+    fullscreenSprite: {fileID: 21300000, guid: ad207bb7c29e1714e90e94b9f033c587, type: 3}
+  - index: 6
+    thumbnailSprite: {fileID: 21300000, guid: c02c07be0d403934b874b3c67ec03044, type: 3}
+    fullscreenSprite: {fileID: 21300000, guid: c02c07be0d403934b874b3c67ec03044, type: 3}
+  - index: 7
+    thumbnailSprite: {fileID: 21300000, guid: 91207ce549f436543ad5ae3e1a3da174, type: 3}
+    fullscreenSprite: {fileID: 21300000, guid: 91207ce549f436543ad5ae3e1a3da174, type: 3}
+  - index: 8
+    thumbnailSprite: {fileID: 21300000, guid: 331994b2b8be1f141ae472e95153dd15, type: 3}
+    fullscreenSprite: {fileID: 21300000, guid: 331994b2b8be1f141ae472e95153dd15, type: 3}
+  - index: 9
+    thumbnailSprite: {fileID: 21300000, guid: fab4b9270aa8207478b51824b4f9901d, type: 3}
+    fullscreenSprite: {fileID: 21300000, guid: fab4b9270aa8207478b51824b4f9901d, type: 3}
+  - index: 10
+    thumbnailSprite: {fileID: 21300000, guid: 3fb5e4def4d808f458c32655526ee9a5, type: 3}
+    fullscreenSprite: {fileID: 21300000, guid: 3fb5e4def4d808f458c32655526ee9a5, type: 3}
+  - index: 11
+    thumbnailSprite: {fileID: 21300000, guid: e894e4862e0a57e41bd3123037f0a21f, type: 3}
+    fullscreenSprite: {fileID: 21300000, guid: e894e4862e0a57e41bd3123037f0a21f, type: 3}
+  - index: 12
+    thumbnailSprite: {fileID: 21300000, guid: 83265945660e7314aa7f7c86e4899dd3, type: 3}
+    fullscreenSprite: {fileID: 21300000, guid: 83265945660e7314aa7f7c86e4899dd3, type: 3}
+  - index: 13
+    thumbnailSprite: {fileID: 21300000, guid: b3f6235056fdc33428e6a4eef53ddc85, type: 3}
+    fullscreenSprite: {fileID: 21300000, guid: b3f6235056fdc33428e6a4eef53ddc85, type: 3}
+  - index: 14
+    thumbnailSprite: {fileID: 21300000, guid: 211afe8735457674da61c570a63dd2ac, type: 3}
+    fullscreenSprite: {fileID: 21300000, guid: 211afe8735457674da61c570a63dd2ac, type: 3}
+  - index: 15
+    thumbnailSprite: {fileID: 21300000, guid: 1821a9fb6ea5c1541abbaae0ba63d106, type: 3}
+    fullscreenSprite: {fileID: 21300000, guid: 1821a9fb6ea5c1541abbaae0ba63d106, type: 3}
+  - index: 16
+    thumbnailSprite: {fileID: 21300000, guid: fca44eeb3df166340bf2db332deacca3, type: 3}
+    fullscreenSprite: {fileID: 21300000, guid: fca44eeb3df166340bf2db332deacca3, type: 3}
+  - index: 17
+    thumbnailSprite: {fileID: 21300000, guid: 6be911f0b7555c142ae5b3eb1d986118, type: 3}
+    fullscreenSprite: {fileID: 21300000, guid: 6be911f0b7555c142ae5b3eb1d986118, type: 3}
+  - index: 18
+    thumbnailSprite: {fileID: 21300000, guid: a690f56d5305931448c1de168eed729c, type: 3}
+    fullscreenSprite: {fileID: 21300000, guid: a690f56d5305931448c1de168eed729c, type: 3}
+  - index: 19
+    thumbnailSprite: {fileID: 21300000, guid: 6a9c1c6a4f80bd34983e830b6c14bd1c, type: 3}
+    fullscreenSprite: {fileID: 21300000, guid: 6a9c1c6a4f80bd34983e830b6c14bd1c, type: 3}
+  - index: 20
+    thumbnailSprite: {fileID: 21300000, guid: fad2dd1312c219d41815aaa9e4bad0eb, type: 3}
+    fullscreenSprite: {fileID: 21300000, guid: fad2dd1312c219d41815aaa9e4bad0eb, type: 3}
+  - index: 21
+    thumbnailSprite: {fileID: 21300000, guid: 02567fefacedc294a9c46533bcb41422, type: 3}
+    fullscreenSprite: {fileID: 21300000, guid: 02567fefacedc294a9c46533bcb41422, type: 3}
+  - index: 22
+    thumbnailSprite: {fileID: 21300000, guid: bc0652b9de545114a87be119d7cce2f1, type: 3}
+    fullscreenSprite: {fileID: 21300000, guid: bc0652b9de545114a87be119d7cce2f1, type: 3}
+  - index: 23
+    thumbnailSprite: {fileID: 21300000, guid: 635ced7af6b8d5d42a73af0b7dfc918b, type: 3}
+    fullscreenSprite: {fileID: 21300000, guid: 635ced7af6b8d5d42a73af0b7dfc918b, type: 3}
+  - index: 24
+    thumbnailSprite: {fileID: 21300000, guid: c6693a73979265b4fba608b6a957309b, type: 3}
+    fullscreenSprite: {fileID: 21300000, guid: c6693a73979265b4fba608b6a957309b, type: 3}
+  - index: 25
+    thumbnailSprite: {fileID: 21300000, guid: a054ddb65232f9547a48101ac18d70d7, type: 3}
+    fullscreenSprite: {fileID: 21300000, guid: a054ddb65232f9547a48101ac18d70d7, type: 3}
+  - index: 26
+    thumbnailSprite: {fileID: 21300000, guid: 9a15ce3fbdacdd84b90edd6eb5e9fd4a, type: 3}
+    fullscreenSprite: {fileID: 21300000, guid: 9a15ce3fbdacdd84b90edd6eb5e9fd4a, type: 3}
+  - index: 27
+    thumbnailSprite: {fileID: 21300000, guid: 6b49fddfd14fe7b448b03ebefcc608ee, type: 3}
+    fullscreenSprite: {fileID: 21300000, guid: 6b49fddfd14fe7b448b03ebefcc608ee, type: 3}
+  - index: 28
+    thumbnailSprite: {fileID: 21300000, guid: 0c4f313c62e07b04698bff8fe069b053, type: 3}
+    fullscreenSprite: {fileID: 21300000, guid: 0c4f313c62e07b04698bff8fe069b053, type: 3}
+  - index: 29
+    thumbnailSprite: {fileID: 21300000, guid: 3e3c9b136e94d3149b2eaa412bb60ff9, type: 3}
+    fullscreenSprite: {fileID: 21300000, guid: 3e3c9b136e94d3149b2eaa412bb60ff9, type: 3}
+  - index: 30
+    thumbnailSprite: {fileID: 21300000, guid: 3cf11ace6d4c07c45b10269750ecf0e1, type: 3}
+    fullscreenSprite: {fileID: 21300000, guid: 3cf11ace6d4c07c45b10269750ecf0e1, type: 3}
+  - index: 31
+    thumbnailSprite: {fileID: 21300000, guid: c62fe6395fb5f83489a81a85dd8e5b89, type: 3}
+    fullscreenSprite: {fileID: 21300000, guid: c62fe6395fb5f83489a81a85dd8e5b89, type: 3}
+  - index: 32
+    thumbnailSprite: {fileID: 21300000, guid: 0b9db1a018226b4458410c0d4d4492b6, type: 3}
+    fullscreenSprite: {fileID: 21300000, guid: 0b9db1a018226b4458410c0d4d4492b6, type: 3}
+  - index: 33
+    thumbnailSprite: {fileID: 21300000, guid: 4e03ead8d2921d9458e3251308d402d8, type: 3}
+    fullscreenSprite: {fileID: 21300000, guid: 4e03ead8d2921d9458e3251308d402d8, type: 3}
+  - index: 34
+    thumbnailSprite: {fileID: 21300000, guid: 21490fb7c0a6ba745b31157ea2c41bf1, type: 3}
+    fullscreenSprite: {fileID: 21300000, guid: 21490fb7c0a6ba745b31157ea2c41bf1, type: 3}
